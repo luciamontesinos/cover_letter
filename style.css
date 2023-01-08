@@ -1,0 +1,8 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: '1508-Regular';
+  src: URL('1508.ttf') format('truetype');
+}
